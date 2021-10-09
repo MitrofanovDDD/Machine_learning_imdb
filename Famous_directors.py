@@ -1,0 +1,16 @@
+Famous_directors=['Stanley Kubrick','David Lynch','Robert Bresson','Alfred Hitchcock',
+                  'Martin Scorsese','Clint Eastwood','William Wyler','Billy Wilder',' John Ford',
+                  'Fritz Lang',' Fred Zinnemann','Sidney Lumet','Francis Ford Coppola','David Fincher',
+                  'Vittorio De Sica','Sergio Leone','Federico Fellini','Ingmar Bergman','Elia Kazan',
+                  'John Huston','Theodoros Angelopoulos','Akira Kurosawa','Kar-Wai Wong','Yimou Zhang',
+                  'Hayao Miyazaki','Kaige Chen','Jean-Pierre Melville','Jean-Pierre Dardenne','Jean-Pierre Jeunet',
+                  'Jean-Luc Godard','Charles Chaplin','Buster Keaton','Andrei Tarkovsky','Sam Peckinpah','James Cameron',
+                  'Anthony Minghella','Frank Capra','Orson Welles','Tim Burton','Jim Jarmusch','Roman Polanski','Bernardo Bertolucci',
+                  'Krzysztof Kieslowski','Sam Mendes','Michael Mann','Ron Howard','Gus Van Sant','Paul Thomas Anderson','Wes Anderson',
+                  'Frank Darabont','Steven Spielberg','Woody Allen','Quentin Tarantino','Robert Rodriguez','Pedro Almodóvar','Alejandro G. Iñárritu',
+                  'Alfonso Cuarón','Peter Jackson','Mel Brooks','Richard Brooks','Howard Hawks','Blake Edwards','Robert Rossen','Emir Kusturica','Giuseppe Tornatore',
+                  'Michael Haneke','Tom Tykwer','Christopher Nolan','David Cronenberg','Joel Coen','Steven Soderbergh','Lars von Trier',
+                  'François Truffaut','Luis Buñuel','Michelangelo Antonioni','Sydney Pollack','Mike Nichols','Spike Jonze','Jim Sheridan','Michael Curtiz','David Lean',
+                  'Ridley Scott','Takeshi Kitano','Preston Sturges','Oliver Stone','Milos Forman','Robert Altman','Costa-Gavras','Andrzej Wajda','King Vidor','Carl Theodor Dreyer',
+                  'F.W. Murnau','D.W. Griffith','Jean Renoir','Rainer Werner Fassbinder','Mel Gibson','Werner Herzog','Brian De Palma','Terry Gilliam','Jafar Panahi']
+                  
