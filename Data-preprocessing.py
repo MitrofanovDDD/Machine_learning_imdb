@@ -100,7 +100,7 @@ df_imdb['No_of_Votes'].dtype
 df_imdb = df_imdb[[c for c in df_imdb if c not in ['Gross']] 
        + ['Gross']]
 df_imdb.to_csv('C:/Users/user/Desktop/Data science/Мо/imdb_pre-processing.csv', encoding='utf-8', index=False)
-#
+
 
 
 
